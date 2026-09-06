@@ -1,0 +1,13 @@
+{
+  "underactive thyroid": "hypothyroidism",
+  "under active thyroid": "hypothyroidism",
+  "low thyroid": "hypothyroidism",
+  "overactive thyroid": "hyperthyroidism",
+  "over active thyroid": "hyperthyroidism",
+  "high thyroid": "hyperthyroidism",
+  "high blood sugar": "hyperglycemia",
+  "low blood sugar": "hypoglycemia",
+  "sugar disease": "diabetes",
+  "thyroid surgery": "thyroidectomy",
+  "sugar level": "blood glucose level"
+}

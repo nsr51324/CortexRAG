@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+openpyxl
+groq
+tqdm
